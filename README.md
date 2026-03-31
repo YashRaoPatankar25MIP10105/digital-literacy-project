@@ -12,7 +12,7 @@ The course helps develop essential skills required for academic work and respons
 It also introduces important concepts related to cyber safety and effective use of technology.
 
 ## Repository Structure
-- report/ → Final project report  
+- Project_Report/ → Final report  
 - task-1-presentation/ → Infographic made using canva
 - task-2-portfolio/ → Profile screenshots  of github linkdin Stack Overflow
 - task-3-platforms/ → Google Form on digital awareness and hackerRank
