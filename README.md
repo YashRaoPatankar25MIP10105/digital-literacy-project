@@ -6,7 +6,10 @@
 **Year:** 1st Year  Semester 2nd  
 
 ## Project Overview
-This project is part of the **CSE0001 Digital Literacy course**. It covers various aspects of digital awareness, professional communication, online tools, and cyber safety.
+This project is part of the CSE0001 Digital Literacy course.  
+It focuses on building awareness of digital tools, professional communication, and safe internet practices.  
+The course helps develop essential skills required for academic work and responsible online behavior.  
+It also introduces important concepts related to cyber safety and effective use of technology.
 
 ## Repository Structure
 - report/ → Final project report  
@@ -28,4 +31,7 @@ This project is part of the **CSE0001 Digital Literacy course**. It covers vario
 https://forms.gle/fYWmeY7s339SfGER9 
 
 ## Conclusion
-This project enhanced my understanding of digital tools, professional communication, and cyber safety. It has helped me build essential skills that will be useful in my academic journey and future career.
+This project improved my understanding of digital tools, professional communication, and cyber safety.  
+I learned how to use online platforms more responsibly and communicate in a clear, professional manner.  
+It strengthened important skills that support both academic work and daily online activities.  
+These skills will continue to be useful throughout my studies and future career.
