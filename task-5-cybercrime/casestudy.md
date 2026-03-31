@@ -1,0 +1,9 @@
+# Cybercrime Case Study: Cyberbullying
+Cyberbullying is a form of digital harassment where individuals use technology social media, messaging, webcams, or posts to repeatedly humiliate, threaten, or invade the privacy of others. Unlike traditional bullying, it can spread instantly and anonymously, often leaving victims feeling powerless and exposed 24/7.  
+
+In September 2010, 18 year old Rutgers University freshman Tyler Clementi became a victim. Tyler, a talented violinist who taught himself to play while unicycling, had just started college. He was openly navigating his identity as a gay man and asked his roommate, Dharun Ravi, for privacy during a date. Ravi secretly set up his webcam to record Tyler’s intimate encounter, then streamed it live to friends and tweeted invitations for others to watch. When Tyler checked Ravi’s Twitter later, he discovered the betrayal: his private moment had become campus gossip, turning him into an object of ridicule during one of the most vulnerable times in his life.  
+
+Cyberbullying like this typically unfolds in steps: (1) a perpetrator (often a peer or acquaintance) identifies a target; (2) they secretly capture or access embarrassing/private content; (3) they share it online via posts, streams, or group chats; (4) the content spreads rapidly through networks; and (5) the victim learns of the exposure, facing relentless mockery.  
+
+The consequences were devastating. Tyler died by suicide just days later on September 22, 2010. The incident caused profound humiliation, anxiety, and isolation. Ravi was convicted on bias intimidation charges. Tyler’s story sparked national awareness, leading to the Tyler Clementi Foundation and anti-harassment laws. It highlights how cyberbullying can shatter mental health, academic dreams, and lives in seconds.  
+Source-https://tylerclementi.org/tylers-story-3/
